@@ -41,6 +41,10 @@ Thứ tự: **Hán Việt** · *Pāli* · *Sanskrit* · English — giải thíc
 | Vô ngã | *anattā* | *anātman* | non-self | Không có tự ngã thường hằng |
 | Vô thường | *anicca* | *anitya* | impermanence | Mọi pháp hữu vi đều biến đổi |
 | Như Lai | *tathāgata* | *tathāgata* | thus-gone one | Danh hiệu Đức Phật tự xưng |
+| Nhất-xiển-đề | — | *icchantika* | icchantika | Kẻ đoạn thiện căn; tranh luận về việc có Phật tánh hay không |
+| Như Lai tạng | — | *tathāgatagarbha* | embryo / matrix of the Tathāgata | Phật tánh ẩn tàng trong chúng sanh, bị phiền não che lấp |
+| Phật tánh | — | *buddhadhātu* | Buddha-nature | Bản tánh / khả năng thành Phật nơi mọi chúng sanh (Đại thừa) |
+| Chủng tánh | *gotta* | *gotra* | lineage, spiritual disposition | “Dòng giống” tâm linh; tiềm năng đạt quả vị |
 
 ## Cách đọc chữ Pāli (chuyển tự La-tinh)
 - `ā, ī, ū` — nguyên âm dài

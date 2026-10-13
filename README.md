@@ -25,6 +25,7 @@ Kho tài liệu học và nghiên cứu Phật giáo một cách có hệ thốn
 | [`04-truyen-thong/`](04-truyen-thong/) | Các truyền thống lớn và trường phái triết học |
 | [`05-phat-giao-viet-nam/`](05-phat-giao-viet-nam/) | Lịch sử Phật giáo Việt Nam |
 | [`06-thuc-hanh/`](06-thuc-hanh/) | Giới – Định – Tuệ, thiền chỉ và thiền quán |
+| [`07-de-tai/`](07-de-tai/) | Các luồng nghiên cứu chuyên đề (vd: [Phật tánh](07-de-tai/phat-tanh/)) |
 | [`THUAT-NGU.md`](THUAT-NGU.md) | Bảng thuật ngữ Hán Việt – Pāli – Sanskrit – Anh |
 | [`TAI-LIEU-THAM-KHAO.md`](TAI-LIEU-THAM-KHAO.md) | Sách, kinh điển và nguồn trực tuyến |
 | [`NHAT-KY-NGHIEN-CUU.md`](NHAT-KY-NGHIEN-CUU.md) | Nhật ký ghi lại tiến độ và câu hỏi |
