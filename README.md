@@ -26,6 +26,8 @@ Kho tài liệu học và nghiên cứu Phật giáo một cách có hệ thốn
 | [`05-phat-giao-viet-nam/`](05-phat-giao-viet-nam/) | Lịch sử Phật giáo Việt Nam |
 | [`06-thuc-hanh/`](06-thuc-hanh/) | Giới – Định – Tuệ, thiền chỉ và thiền quán |
 | [`07-de-tai/`](07-de-tai/) | Các luồng nghiên cứu chuyên đề (vd: [Phật tánh](07-de-tai/phat-tanh/)) |
+| [`tac-gia/`](tac-gia/) | Tuyển tập bài viết theo tác giả — **nguồn tra cứu ưu tiên** (Thầy Nguyễn Thế Đăng) |
+| [`AGENTS.md`](AGENTS.md) | Hướng dẫn cho trợ lý AI: thứ tự ưu tiên nguồn, cách trích dẫn |
 | [`THUAT-NGU.md`](THUAT-NGU.md) | Bảng thuật ngữ Hán Việt – Pāli – Sanskrit – Anh |
 | [`TAI-LIEU-THAM-KHAO.md`](TAI-LIEU-THAM-KHAO.md) | Sách, kinh điển và nguồn trực tuyến |
 | [`NHAT-KY-NGHIEN-CUU.md`](NHAT-KY-NGHIEN-CUU.md) | Nhật ký ghi lại tiến độ và câu hỏi |
@@ -34,7 +36,7 @@ Kho tài liệu học và nghiên cứu Phật giáo một cách có hệ thốn
 ## Cách sử dụng
 
 1. Bắt đầu từ [`KE-HOACH.md`](KE-HOACH.md) để chọn giai đoạn phù hợp.
-2. Đọc tài liệu tóm lược trong từng thư mục, sau đó **đọc kinh gốc** được dẫn chiếu.
+2. Đọc tài liệu tóm lược trong từng thư mục, tra thêm [bài viết của Thầy Nguyễn Thế Đăng](tac-gia/nguyen-the-dang/chu-de.md) cùng chủ đề, sau đó **đọc kinh gốc** được dẫn chiếu.
 3. Mỗi bài kinh đã đọc → sao chép [`mau/ghi-chu-kinh.md`](mau/ghi-chu-kinh.md) và ghi chú.
 4. Ghi các câu hỏi, nghi vấn vào [`NHAT-KY-NGHIEN-CUU.md`](NHAT-KY-NGHIEN-CUU.md) để tìm hiểu tiếp.
 

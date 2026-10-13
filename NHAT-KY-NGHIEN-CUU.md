@@ -18,6 +18,12 @@ Những câu hỏi cần tìm hiểu thêm. Khi đã có câu trả lời, chuy�
 
 ## Nhật ký
 
+### 2026-10-13 — Thêm tuyển tập Thầy Nguyễn Thế Đăng làm nguồn ưu tiên
+- Tạo thư mục [`tac-gia/nguyen-the-dang/`](tac-gia/nguyen-the-dang/): 225 bài từ Thư Viện Hoa Sen (đã loại bản trùng), có [mục lục](tac-gia/nguyen-the-dang/muc-luc.md) và [chỉ mục chủ đề](tac-gia/nguyen-the-dang/chu-de.md).
+- Thêm [`AGENTS.md`](AGENTS.md): tra cứu bài của Thầy **trước mọi nguồn khác**.
+- Bổ sung mục “Theo Thầy Nguyễn Thế Đăng” vào [luồng Phật tánh](07-de-tai/phat-tanh/ly-do-tin-chung-sanh-co-phat-tanh.md).
+- **Việc tiếp theo:** hiệu đính chỉ mục chủ đề khi đọc; bổ sung đường dẫn gốc (`url`) cho các bài còn thiếu.
+
 ### 2026-10-13 — Mở luồng nghiên cứu: Chúng sanh có Phật tánh
 - Tạo thư mục [`07-de-tai/phat-tanh/`](07-de-tai/phat-tanh/) với câu hỏi trung tâm, phạm vi và lộ trình đọc 4 bước.
 - Soạn ghi chú chính: [Những lý do tin rằng chúng sanh có Phật tánh](07-de-tai/phat-tanh/ly-do-tin-chung-sanh-co-phat-tanh.md) — 4 nhóm lý do (kinh văn, lý luận, tu chứng, thực tiễn) và 7 phản biện.

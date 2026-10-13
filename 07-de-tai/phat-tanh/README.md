@@ -30,6 +30,17 @@
 
 ## Lộ trình đọc
 
+### Bước 0 — Nguồn ưu tiên: bài của Thầy Nguyễn Thế Đăng
+Theo [`AGENTS.md`](../../AGENTS.md), đọc trước các bài trong [tuyển tập](../../tac-gia/nguyen-the-dang/chu-de.md#phật-tánh--như-lai-tạng) (62 bài có gắn chủ đề Phật tánh). Nên bắt đầu với:
+- [ ] [Tất Cả Chúng Sanh Đều Có Phật Tánh](../../tac-gia/nguyen-the-dang/bai-viet/tat-ca-chung-sanh-deu-co-phat-tanh.md) — trực tiếp trả lời câu hỏi của luồng, dựa trên *Kinh Đại Bát Niết-bàn*
+- [ ] [Tìm Hiểu Phật Tánh Theo Kinh Luận](../../tac-gia/nguyen-the-dang/bai-viet/tim-hieu-phat-tanh-theo-kinh-luan.md) — Niết-bàn, Lục Tổ, Padmasambhava
+- [ ] [Đều Có Phật Tánh, Tại Sao Phải Tu?](../../tac-gia/nguyen-the-dang/bai-viet/deu-co-phat-tanh-tai-sao-phai-tu.md) — sanh nhân / liễu nhân, chánh nhân / duyên nhân
+- [ ] [Phật Tánh Thường Lạc Ngã Tịnh](../../tac-gia/nguyen-the-dang/bai-viet/phat-tanh-thuong-lac-nga-tinh.md) — vấn đề “ngã” trong Phật tánh
+- [ ] [Phật Tánh: Tánh Không, Quang Minh, Và Năng Lực](../../tac-gia/nguyen-the-dang/bai-viet/phat-tanh-tanh-khong-quang-minh-va-nang-luc.md)
+- [ ] [Lòng Tin Quyết Định Vào Nền Tảng Phật Tánh](../../tac-gia/nguyen-the-dang/bai-viet/long-tin-quyet-dinh-vao-nen-tang-phat-tanh.md)
+- [ ] [Thuận Tánh Khởi Tu](../../tac-gia/nguyen-the-dang/bai-viet/thuan-tanh-khoi-tu.md) và [Thường Bất Khinh](../../tac-gia/nguyen-the-dang/bai-viet/thuong-bat-khinh.md)
+- [ ] [Tâm Là Như Lai Tạng — Thiền Sư Thường Chiếu](../../tac-gia/nguyen-the-dang/bai-viet/tam-la-nhu-lai-tang-thien-su-thuong-chieu.md) — Phật tánh trong Thiền Việt Nam
+
 ### Bước 1 — Nền tảng (đọc lại trong repo)
 - [ ] [Tam pháp ấn](../../02-giao-ly/tam-phap-an.md) — nhất là **vô ngã**, vì đây là điểm căng thẳng lớn nhất
 - [ ] [Duyên khởi](../../02-giao-ly/duyen-khoi.md) — phần Tánh Không của Trung Quán
@@ -63,6 +74,7 @@
 | Ngày | Việc đã làm |
 |---|---|
 | 2026-10-13 | Mở luồng; soạn ghi chú chính về các lý do và phản biện |
+| 2026-10-13 | Thêm Bước 0 (bài của Thầy Nguyễn Thế Đăng) và mục 0 trong ghi chú chính |
 
 ## Câu hỏi mở của luồng
 - [ ] Hai bản dịch *Niết-bàn* (Pháp Hiển 6 quyển, T376 và Đàm-vô-sấm 40 quyển, T374) khác nhau cụ thể ở những đoạn nào về nhất-xiển-đề?

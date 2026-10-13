@@ -2,9 +2,38 @@
 
 *Phật tánh* (佛性) / Skt. *buddhadhātu*, *tathāgatagarbha* (Như Lai tạng), *buddhagotra* (Phật chủng tánh)
 
-**Ngày tạo:** 2026-10-13 · **Cập nhật:** 2026-10-13 · Thuộc luồng: [Phật tánh](README.md)
+**Ngày tạo:** 2026-10-13 · **Cập nhật:** 2026-10-13 · Thuộc luồng: [Phật tánh](README.md) · Nguồn ưu tiên: [Nguyễn Thế Đăng](../../tac-gia/nguyen-the-dang/)
 
 > **Lưu ý phương pháp** (theo [quy ước](../../README.md#quy-ước) của dự án): ghi chú này phân biệt (1) **kinh văn**, (2) **luận giải truyền thống**, (3) **quan điểm học thuật hiện đại**. “Lý do tin” ở đây là lý do mà *các truyền thống tự đưa ra*; phần cuối ghi lại các phản biện để người học tự cân nhắc, đúng tinh thần *Kinh Kālāma*.
+
+---
+
+## 0. Theo Thầy Nguyễn Thế Đăng (nguồn ưu tiên)
+
+> Tóm lược từ ba bài: [*Tất Cả Chúng Sanh Đều Có Phật Tánh*](../../tac-gia/nguyen-the-dang/bai-viet/tat-ca-chung-sanh-deu-co-phat-tanh.md) (VHPG số 173), [*Tìm Hiểu Phật Tánh Theo Kinh Luận*](../../tac-gia/nguyen-the-dang/bai-viet/tim-hieu-phat-tanh-theo-kinh-luan.md), [*Đều Có Phật Tánh, Tại Sao Phải Tu?*](../../tac-gia/nguyen-the-dang/bai-viet/deu-co-phat-tanh-tai-sao-phai-tu.md). Kinh văn dưới đây là **do Thầy dẫn** từ bản Việt dịch *Kinh Đại Bát Niết-bàn* (Đoàn Trung Còn – Nguyễn Minh Tiến và HT. Thích Trí Tịnh).
+
+**Lời “sư tử rống” của kinh.** Thầy lấy câu kinh làm điểm xuất phát: *“Sư tử rống là lời nói quyết định: Tất cả chúng sanh đều có Phật tánh. Như Lai thường trụ không biến đổi”* (phẩm Bồ-tát Sư Tử Hống). “Sư tử” là Đức Phật; “rống” là lời tuyên bố của **trí huệ** (thấy thật tánh muôn loài là Phật tánh) và **đại bi** (lời ấy trùm khắp muôn loài). Kinh nói rõ phạm vi: *“nhẫn đến kẻ tạo tội ngũ nghịch, phạm tứ trọng tội và nhất-xiển-đề đều có Phật tánh.”*
+
+**Các lý do, theo cách Thầy trình bày:**
+
+1. **Vì Phật tánh thường trụ, nên có mặt khắp nơi, kể cả nơi ta.** Phật tánh *“không sanh không diệt, không đến không đi, chẳng phải quá khứ, vị lai, hiện tại”* (phẩm Thánh Hạnh). Thầy lập luận: cái không lệ thuộc không gian, thời gian mà lại thường trụ thì **phải có mặt trong mọi không gian, thời gian**, nghĩa là có mặt *tại đây và bây giờ*. *“Dù Phật có ra đời hay không, Phật tánh hay pháp giới vẫn thường trụ.”*
+2. **Vì Phật tánh như hư không, không chúng sanh nào ở ngoài nó.** Chúng ta ở trong Phật tánh *“như cá ở trong biển”*, như sống trong không khí mà không hay. Chưa thấy được là vì **phiền não chướng và sở tri chướng**, không phải vì không có.
+3. **Vì Phật tánh không tăng không giảm, không dơ không sạch.** “Đại” Niết-bàn bao trùm cả sanh tử lẫn Niết-bàn, là pháp tánh của cả hai; tánh ấy *“không tăng ở các bậc giác ngộ, không giảm ở chúng sanh”*. Phật tánh *“chẳng hư, chẳng hoại, chẳng bị trói buộc”*, nên trọng tội hay mất lòng tin (nhất-xiển-đề) cũng không làm nó mất đi.
+4. **Vì mọi chúng sanh “tất định sẽ được” những phẩm chất Phật.** Kinh định nghĩa Phật tánh qua những gì chúng sanh chắc chắn sẽ đạt: *“Đại từ đại bi đại hỷ đại xả gọi là Phật tánh… tất cả chúng sanh tất định sẽ được… do đây nên nói tất cả chúng sanh đều có Phật tánh.”* Tương tự với **đại tín tâm** và **mười hai nhân duyên** (*“do nhân duyên mà Như Lai được thường trụ”*). → Đây là cách kinh nối Phật tánh với **tiềm năng** (đương hữu), gần với ý “Phật chủng tánh” ở mục B1.
+5. **Vì Phật tánh “chẳng tức, chẳng lìa” các pháp.** Phật tánh siêu vượt năm uẩn nhưng không ở ngoài năm uẩn: *“Phật tánh của chúng sanh chẳng phải sắc, chẳng phải lìa sắc… chẳng phải ngã, chẳng phải lìa ngã.”* Kinh cũng nói: *“Ta lại nói chúng sanh chính là Phật tánh, vì nếu rời chúng sanh thì chẳng được Vô thượng Bồ-đề.”*
+6. **Vì chỉ có một Phật tánh nên chỉ có Nhất thừa.** *“Thanh văn, Duyên giác, Bồ-tát đồng một Phật tánh”*; *“tất cả chúng sanh đồng có Phật tánh, đều đồng Nhất thừa, đồng một giải thoát”* — nối với *Pháp Hoa* (mục A5).
+7. **Vì các bậc giác ngộ đã thấy và chỉ ra.** Thiền sư Cảm Thành (dòng Vô Ngôn Thông, thế kỷ IX): hỏi “Thế nào là Phật?” — đáp **“Khắp tất cả chỗ.”** Hỏi “Thế nào là tâm Phật?” — đáp **“Chẳng từng che giấu.”** Lục Tổ: *“Nào ngờ tự tánh vốn tự thanh tịnh… vốn tự tròn đủ…”*
+
+**Phật tánh và Tánh Không.** Thầy nhấn mạnh Phật tánh là **Đệ nhất nghĩa Không**, đồng thời là Thường – Lạc – Ngã – Tịnh: *“Không mà Bất không”*, hay **Chân Không Diệu Hữu**. Đây là cách Thầy trả lời mối lo “Phật tánh là ngã trá hình” (xem mục 7): “ngã” của Niết-bàn là theo nghĩa **thường trụ**, còn *“tất cả các pháp đều không có ngã”*.
+
+**Đã có sẵn thì sao phải tu?** Theo Thầy, Phật tánh **sẵn có nhưng bị che lấp**. Kinh phân biệt:
+- **Chánh nhân** là chúng sanh (có Phật tánh); **duyên nhân** là sáu ba-la-mật, giới – định – tuệ. Ví dụ: sữa có “tánh lạc”, nhưng cần ủ và hơi nóng mới thành lạc.
+- Phật tánh là **liễu nhân** (nhân làm cho thấy rõ, như đèn soi vật), không phải **sanh nhân** (nhân tạo ra cái mới).
+- Ví dụ **mỏ vàng:** vàng không do đất đá làm ra, vàng vốn là vàng; tu là loại bỏ quặng vô minh, phiền não.
+
+Thầy nêu hai cách tu: (1) dùng trí huệ phá hai chướng để thấy Phật tánh; (2) **quan sát trực tiếp Phật tánh**: thấy mọi sóng đồng một tánh nước, mọi bóng đều trong gương. Nền tảng của cả hai là **lòng tin**: *“Tín tâm là nhân của Giác ngộ vô thượng”* (phẩm Bồ-tát Ca-diếp).
+
+> **Nhận xét đối chiếu:** cách tiếp cận của Thầy thuộc dòng **Như Lai tạng – Thiền tông – Đại Toàn Thiện**, nhấn mạnh Phật tánh **có sẵn, thường trụ** và **lòng tin** là cửa vào. Điều này gần với lập trường *tha không* / Jonang và *Khởi Tín Luận* hơn là cách đọc Gelug, Trung Quán “Phật tánh = tánh Không của tâm” (xem mục 7). Các mục 1–11 bên dưới bổ sung bối cảnh kinh luận rộng hơn và các phản biện từ nguồn khác.
 
 ---
 
@@ -206,6 +235,9 @@ Luận giải thích vì sao Phật dạy giáo lý này: để giúp chúng san
 6. Theravāda giải thích khả năng giải thoát của mọi người mà không cần học thuyết Phật tánh ra sao?
 
 ## 12. Nguồn tham khảo
+
+**Bài của Thầy Nguyễn Thế Đăng** (nguồn ưu tiên — xem [chỉ mục](../../tac-gia/nguyen-the-dang/chu-de.md#phật-tánh--như-lai-tạng))
+- *Tất Cả Chúng Sanh Đều Có Phật Tánh*; *Tìm Hiểu Phật Tánh Theo Kinh Luận*; *Đều Có Phật Tánh, Tại Sao Phải Tu?*
 
 **Kinh văn**
 1. AN 1.49–52, *Pabhassara* — SuttaCentral; bản dịch Việt: HT. Thích Minh Châu, *Kinh Tăng Chi Bộ*.
