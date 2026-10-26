@@ -22,7 +22,7 @@ Mọi truyền thống đều chấp nhận: Tam Bảo, Tứ Diệu Đế, Bát 
 | Thuyết Nhất Thiết Hữu bộ (*Sarvāstivāda*) | — | Các pháp tồn tại trong cả ba thời; Abhidharma hệ thống |
 | Kinh Lượng bộ (*Sautrāntika*) | — | Chỉ dựa vào Kinh; pháp chỉ tồn tại trong sát-na hiện tại |
 | **Trung Quán** (*Madhyamaka*) | Long Thọ (*Nāgārjuna*, ~thế kỷ II), Thánh Thiên (*Āryadeva*) | Mọi pháp **không có tự tánh** (*niḥsvabhāva*) vì duyên khởi; **Nhị đế**: tục đế và chân đế |
-| **Duy Thức** (*Yogācāra*) | Vô Trước (*Asaṅga*), Thế Thân (*Vasubandhu*), ~thế kỷ IV | Tám thức, A-lại-da thức (*ālaya-vijñāna*); ba tự tánh |
+| **[Duy Thức](duy-thuc.md)** (*Yogācāra*) | Vô Trước (*Asaṅga*), Thế Thân (*Vasubandhu*), ~thế kỷ IV | Tám thức, A-lại-da thức (*ālaya-vijñāna*); ba tự tánh |
 | Như Lai tạng (*Tathāgatagarbha*) | *Kinh Thắng Man*, *Bảo Tánh Luận* | Mọi chúng sinh đều có Phật tánh |
 | Nhân minh (Luận lý học) | Trần-na (*Dignāga*), Pháp Xứng (*Dharmakīrti*) | Nhận thức luận, lượng học |
 
@@ -34,7 +34,7 @@ Mọi truyền thống đều chấp nhận: Tam Bảo, Tứ Diệu Đế, Bát 
 | **Tịnh Độ** | Kinh A-di-đà, Vô Lượng Thọ, Quán Vô Lượng Thọ; Đàm Loan, Thiện Đạo | Niệm danh hiệu Phật A-di-đà, nguyện vãng sinh Tây phương Cực Lạc |
 | **Thiên Thai** | Kinh Pháp Hoa; Trí Khải (Trí Giả đại sư) | Chỉ quán; “Nhất niệm tam thiên” |
 | **Hoa Nghiêm** | Kinh Hoa Nghiêm; Pháp Tạng | Pháp giới duyên khởi, sự sự vô ngại |
-| **Pháp Tướng / Duy Thức** | Huyền Trang, Khuy Cơ | Duy Thức học Ấn Độ tại Trung Hoa |
+| **[Pháp Tướng / Duy Thức](duy-thuc.md)** | Huyền Trang, Khuy Cơ | Duy Thức học Ấn Độ tại Trung Hoa |
 | **Mật tông** (Chân Ngôn, Shingon) | Thiện Vô Úy, Bất Không; Kūkai (Nhật) | Mật giáo Đông Á |
 | **Nhật Liên** | Kinh Pháp Hoa; Nichiren (Nhật) | Xướng tụng đề mục “Nam-mô Diệu Pháp Liên Hoa Kinh” |
 

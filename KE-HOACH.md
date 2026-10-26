@@ -56,13 +56,15 @@ Lộ trình gồm 4 giai đoạn, có thể điều chỉnh theo thời gian c�
 - [ ] [Các kỳ kết tập](01-lich-su/cac-ky-ket-tap.md) và [sự truyền bá](01-lich-su/su-truyen-ba.md)
 - [ ] [Tổng quan kinh điển](03-kinh-dien/tong-quan-tam-tang.md)
 - [ ] [Các truyền thống](04-truyen-thong/cac-truyen-thong.md)
+- [ ] [Duy Thức tông](04-truyen-thong/duy-thuc.md) — tám thức, chủng tử, ba tự tánh
 - [ ] Đọc trọn Trung Bộ Kinh (152 kinh) hoặc tuyển tập *In the Buddha's Words* (Bhikkhu Bodhi)
 - [ ] Kinh Đại thừa: *Bát Nhã Tâm Kinh*, *Kim Cang*, một số phẩm *Pháp Hoa*
 
 **Câu hỏi tự kiểm tra:**
 1. Khác biệt giữa lý tưởng A-la-hán và lý tưởng Bồ-tát?
 2. “Tánh Không” (*śūnyatā*) của Long Thọ liên hệ thế nào với Duyên khởi?
-3. Vì sao kinh điển Pāli và A Hàm chữ Hán có nhiều nội dung tương đồng?
+3. Duy Thức giải thích sự liên tục của nghiệp và tái sinh (khi không có ngã) bằng A-lại-da thức và chủng tử như thế nào?
+4. Vì sao kinh điển Pāli và A Hàm chữ Hán có nhiều nội dung tương đồng?
 
 ---
 
