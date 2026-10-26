@@ -37,6 +37,15 @@
 - Bhikkhu Ñāṇamoli — *The Path of Purification* (dịch *Thanh Tịnh Đạo*)
 - Richard Gombrich — *What the Buddha Thought*
 
+### Duy Thức (Yogācāra)
+- Thích Thiện Hoa — *Phật Học Phổ Thông*, phần *Duy Thức Học*
+- Thích Nhất Hạnh — *Duy Biểu Học* (bản Anh: *Understanding Our Mind*)
+- Dan Lusthaus — *Buddhist Phenomenology* (2002)
+- William S. Waldron — *The Buddhist Unconscious* (2003)
+- Jonathan C. Gold — *Paving the Great Way: Vasubandhu's Unifying Buddhist Philosophy* (2015)
+- Francis H. Cook — *Three Texts on Consciousness Only* (BDK, 1999)
+- Danh mục đầy đủ: xem [Duy Thức tông](04-truyen-thong/duy-thuc.md#nguồn-tham-khảo)
+
 ## Phật giáo Việt Nam
 - Nguyễn Lang — *Việt Nam Phật Giáo Sử Luận*
 - Lê Mạnh Thát — *Lịch Sử Phật Giáo Việt Nam*

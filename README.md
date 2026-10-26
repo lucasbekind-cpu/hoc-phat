@@ -22,7 +22,7 @@ Kho tài liệu học và nghiên cứu Phật giáo một cách có hệ thốn
 | [`01-lich-su/`](01-lich-su/) | Cuộc đời Đức Phật, các kỳ kết tập, sự truyền bá |
 | [`02-giao-ly/`](02-giao-ly/) | Tứ Diệu Đế, Bát Chánh Đạo, Duyên khởi, Tam pháp ấn, Ngũ uẩn, Nghiệp |
 | [`03-kinh-dien/`](03-kinh-dien/) | Tổng quan Tam Tạng và danh sách kinh nên đọc |
-| [`04-truyen-thong/`](04-truyen-thong/) | Các truyền thống lớn và trường phái triết học |
+| [`04-truyen-thong/`](04-truyen-thong/) | Các truyền thống lớn và trường phái triết học; chuyên đề [Duy Thức](04-truyen-thong/duy-thuc.md) |
 | [`05-phat-giao-viet-nam/`](05-phat-giao-viet-nam/) | Lịch sử Phật giáo Việt Nam |
 | [`06-thuc-hanh/`](06-thuc-hanh/) | Giới – Định – Tuệ, thiền chỉ và thiền quán |
 | [`07-de-tai/`](07-de-tai/) | Các luồng nghiên cứu chuyên đề (vd: [Phật tánh](07-de-tai/phat-tanh/)) |

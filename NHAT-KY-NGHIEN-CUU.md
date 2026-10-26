@@ -13,10 +13,18 @@ Những câu hỏi cần tìm hiểu thêm. Khi đã có câu trả lời, chuy�
 - [ ] Vì sao Thiền phái Trúc Lâm suy yếu sau thời Huyền Quang?
 - [ ] Phật tánh là “bản hữu” (có sẵn) hay “đương hữu” (sẽ có)? → theo dõi tại [luồng Phật tánh](07-de-tai/phat-tanh/)
 - [ ] Quan niệm “thân trung ấm” (*antarābhava*) — bộ phái nào chấp nhận, bộ phái nào bác bỏ?
+- [ ] Duy Thức là “duy tâm luận” siêu hình hay hiện tượng học? Đọc *Nhị Thập Luận* rồi tự đánh giá các lập luận.
+- [ ] Hữu phần thức (*bhavaṅga*) của Abhidhamma Theravāda giống và khác A-lại-da thức ở điểm nào?
 
 ---
 
 ## Nhật ký
+
+### 2026-10-26 — Tìm hiểu Duy Thức tông (Yogācāra)
+- Đã soạn: [Duy Thức tông](04-truyen-thong/duy-thuc.md) — lịch sử (Vô Trước, Thế Thân, Huyền Trang), tám thức, chủng tử – huân tập, ba tự tánh, chuyển thức thành trí, các tranh luận.
+- Bổ sung thuật ngữ Duy Thức vào [bảng thuật ngữ](THUAT-NGU.md) và sách vào [tài liệu tham khảo](TAI-LIEU-THAM-KHAO.md).
+- Câu hỏi mới: xem mục *Câu hỏi mở* ở trên.
+- **Việc tiếp theo:** đọc *Duy Thức Tam Thập Tụng* và ghi chú theo [mẫu](mau/ghi-chu-kinh.md).
 
 ### 2026-10-13 — Thêm tuyển tập Thầy Nguyễn Thế Đăng làm nguồn ưu tiên
 - Tạo thư mục [`tac-gia/nguyen-the-dang/`](tac-gia/nguyen-the-dang/): 225 bài từ Thư Viện Hoa Sen (đã loại bản trùng), có [mục lục](tac-gia/nguyen-the-dang/muc-luc.md) và [chỉ mục chủ đề](tac-gia/nguyen-the-dang/chu-de.md).

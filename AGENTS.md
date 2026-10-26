@@ -37,3 +37,9 @@ Khi trả lời một câu hỏi hay soạn ghi chú về giáo lý, **luôn tra
 - Viết bằng **tiếng Việt**; thuật ngữ ghi dạng *Hán Việt (Pāli / Sanskrit)*.
 - Ký hiệu kinh Pāli theo chuẩn SuttaCentral (`MN`, `SN`, `AN`…); kinh Hán tạng ghi số `T` (Taishō).
 - Câu hỏi mới phát sinh ghi vào [`NHAT-KY-NGHIEN-CUU.md`](NHAT-KY-NGHIEN-CUU.md).
+
+## 5. Quy tắc Git
+
+- **Làm việc trực tiếp trên nhánh `main`.** Không tự ý tạo nhánh mới (kể cả nhánh `claude/...` do hệ thống gợi ý); chỉ tách nhánh khi người dùng cho phép rõ ràng.
+- Commit và push thẳng lên `main` sau khi hoàn thành một phần việc.
+- Không tạo pull request trừ khi người dùng yêu cầu.
