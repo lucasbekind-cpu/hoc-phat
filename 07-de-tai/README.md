@@ -5,6 +5,7 @@ Mỗi đề tài là một **luồng nghiên cứu** riêng: một câu hỏi tr
 | Luồng | Câu hỏi trung tâm | Trạng thái |
 |---|---|---|
 | [Phật tánh](phat-tanh/) | Vì sao Phật giáo (Đại thừa) cho rằng mọi chúng sanh đều có Phật tánh? | Đang nghiên cứu |
+| [Nhẫn](nhan/) | Các cấp độ nhẫn (Ngũ nhẫn) tương ứng thế nào với Mười nhẫn Hoa Nghiêm? | Đang nghiên cứu |
 
 ## Cấu trúc một luồng
 ```
