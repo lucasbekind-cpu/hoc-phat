@@ -35,7 +35,7 @@ Nguyễn Thế Đăng, [*Như Huyễn*](../../tac-gia/nguyen-the-dang/bai-viet/n
 Các đoạn khác của phẩm 29 Thầy dẫn:
 - **[Kinh do Thầy dẫn]** "Nghĩa là ở nơi Phật pháp tư duy quán sát, bình đẳng không trái, tùy thuận rõ biết, khiến tâm thanh tịnh, chánh trụ tu tập thâm nhập thành tựu" ([*Nền Tảng Của Thiền Định, Thiền Quán Đại Thừa*](../../tac-gia/nguyen-the-dang/bai-viet/nen-tang-cua-thien-dinh-thien-quan-dai-thua.md)). Thầy chỉ ghi "Phẩm Thập Nhẫn"; theo trí nhớ của tôi **[Ngoài tuyển tập]**, đây là câu định nghĩa *thuận nhẫn*.
 - **[Kinh do Thầy dẫn]** kệ "Chúng sanh đều riêng khác / Hình loại chẳng phải một / Thấu rõ đều là tưởng / Tất cả không chân thật..." (sách *Đi Vào Kinh Hoa Nghiêm*, chương Ba Pháp Quán Hoa Nghiêm, tr. 126-127; chương Biến Hóa, tr. 197-198). Đây là kệ thuộc *như diệm nhẫn* (các tưởng như sóng nắng).
-- **[Kinh do Thầy dẫn]** đoạn *như không nhẫn*: "Ví như hư không là chỗ y chỉ của tất cả thế gian mà hư không không có chỗ y; cũng vậy, Bồ tát là chỗ y của tất cả pháp mà không có chỗ y..." (sách, chương Sống Trong Pháp Giới Hoa Nghiêm, tr. 330-331).
+- **[Kinh do Thầy dẫn]** đoạn *như không nhẫn*: "Ví như hư không là chỗ y chỉ của tất cả thế gian mà hư không không có chỗ y; cũng vậy, Bồ tát là chỗ y của tất cả pháp mà không có chỗ y..." (sách, chương Sống Trong Pháp Giới Hoa Nghiêm, tr. 329).
 
 ## 2. Ngũ nhẫn [Ngoài tuyển tập]
 Nguồn thường dẫn: kinh *Nhân Vương Hộ Quốc Bát-nhã Ba-la-mật* (T245, La-thập dịch; T246, Bất Không dịch), phẩm Bồ-tát Giáo Hóa. Mỗi nhẫn chia ba phẩm hạ, trung, thượng. Việc gán địa vị dưới đây là theo cách trình bày phổ biến, **chưa đối chiếu văn bản gốc**.
