@@ -33,7 +33,7 @@ Nguyễn Thế Đăng, [*Như Huyễn*](../../tac-gia/nguyen-the-dang/bai-viet/n
 > **[Thầy]** "Quán như huyễn thì tự giải thoát vì 'cõi hữu lậu diệt hết', và giải thoát cho chúng sanh, bằng cách chỉ dạy họ biết pháp như huyễn, nhưng đồng thời cũng giải thoát khỏi việc độ thoát này, vì chúng sanh cũng như huyễn. Chỉ quán huyễn là làm trọn hạnh Bồ-tát, tự giác, giác tha, giác hạnh viên mãn."
 
 Các đoạn khác của phẩm 29 Thầy dẫn:
-- **[Kinh do Thầy dẫn]** "Nghĩa là ở nơi Phật pháp tư duy quán sát, bình đẳng không trái, tùy thuận rõ biết, khiến tâm thanh tịnh, chánh trụ tu tập thâm nhập thành tựu" ([*Nền Tảng Của Thiền Định, Thiền Quán Đại Thừa*](../../tac-gia/nguyen-the-dang/bai-viet/nen-tang-cua-thien-dinh-thien-quan-dai-thua.md)). Thầy chỉ ghi "Phẩm Thập Nhẫn"; theo trí nhớ của tôi **[Ngoài tuyển tập]**, đây là câu định nghĩa *thuận nhẫn*.
+- **[Kinh do Thầy dẫn]** "Nghĩa là ở nơi Phật pháp tư duy quán sát, bình đẳng không trái, tùy thuận rõ biết, khiến tâm thanh tịnh, chánh trụ tu tập thâm nhập thành tựu" ([*Nền Tảng Của Thiền Định, Thiền Quán Đại Thừa*](../../tac-gia/nguyen-the-dang/bai-viet/nen-tang-cua-thien-dinh-thien-quan-dai-thua.md)). Thầy chỉ ghi "Phẩm Thập Nhẫn"; đối chiếu quyển 3 (tr. 28) thì đây là câu định nghĩa *thuận nhẫn*.
 - **[Kinh do Thầy dẫn]** kệ "Chúng sanh đều riêng khác / Hình loại chẳng phải một / Thấu rõ đều là tưởng / Tất cả không chân thật..." (sách *Đi Vào Kinh Hoa Nghiêm*, chương Ba Pháp Quán Hoa Nghiêm, tr. 126-127; chương Biến Hóa, tr. 197-198). Đây là kệ thuộc *như diệm nhẫn* (các tưởng như sóng nắng).
 - **[Kinh do Thầy dẫn]** đoạn *như không nhẫn*: "Ví như hư không là chỗ y chỉ của tất cả thế gian mà hư không không có chỗ y; cũng vậy, Bồ tát là chỗ y của tất cả pháp mà không có chỗ y..." (sách, chương Sống Trong Pháp Giới Hoa Nghiêm, tr. 329).
 
@@ -52,19 +52,19 @@ Thầy dùng tên hơi khác: *Tùy thuận nhẫn* thay cho Thuận nhẫn, và
 
 Một hệ khác đáng biết **[Ngoài tuyển tập]**: kinh *Vô Lượng Thọ* (nguyện thứ 48) nêu **ba nhẫn**: âm hưởng nhẫn, nhu thuận nhẫn, vô sanh pháp nhẫn. Ba nhẫn này trùng với ba nhẫn đầu của Hoa Nghiêm.
 
-## 3. Mười nhẫn Hoa Nghiêm [Ngoài tuyển tập, trừ phần đã ghi Thầy dẫn]
-Tóm nghĩa theo trí nhớ, cần đối chiếu bản dịch phẩm 29:
+## 3. Mười nhẫn Hoa Nghiêm (đã đối chiếu kinh văn)
+Đối chiếu với [`sach/kinh-hoa-nghiem-quyen-3-nxb-ton-giao.pdf`](../../sach/kinh-hoa-nghiem-quyen-3-nxb-ton-giao.pdf), phẩm Thập Nhẫn thứ 29, trang 27-41. Phổ Hiền Bồ-tát giảng. Mở đầu: "nếu được nhẫn nầy thì được đến nơi vô ngại nhẫn địa của tất cả Bồ tát".
 
 | # | Nhẫn | Nghĩa tóm tắt |
 |---|---|---|
-| 1 | Âm thanh nhẫn (âm hưởng nhẫn) | Nghe pháp sâu của Phật không kinh, không sợ; tin hiểu, thọ trì |
-| 2 | Thuận nhẫn | Tư duy quán sát, tùy thuận pháp, bình đẳng không trái (xem câu Thầy dẫn ở 1.4) |
-| 3 | Vô sanh pháp nhẫn | Không thấy chút pháp nào sanh, nên cũng không thấy diệt |
+| 1 | Âm thanh nhẫn | "Nghe những pháp của chư Phật nói, chẳng kinh chẳng hãi chẳng sợ, thâm tín ngộ giải, ưa thích xu hướng, chuyên tâm ghi nhớ, tu tập an trụ" |
+| 2 | Thuận nhẫn | "Ở nơi Phật pháp tư duy quán sát bình đẳng không trái, tùy thuận biết rõ, khiến tâm thanh tịnh, chánh trụ tu tập xu nhập thành tựu" (đúng là câu Thầy dẫn ở 1.4) |
+| 3 | Vô sanh pháp nhẫn | "Chẳng thấy có chút pháp nào sanh, cũng chẳng thấy có chút pháp nào diệt", rồi chuỗi: vô sanh, vô diệt, vô tận, ly cấu... vô khứ vô lai |
 | 4 | Như huyễn nhẫn | Biết các pháp như trò huyễn thuật, do duyên mà hiện |
 | 5 | Như diệm nhẫn | Biết thế gian như sóng nắng (ảo ảnh), sai khác chỉ do tưởng |
 | 6 | Như mộng nhẫn | Biết thế gian như giấc mộng |
-| 7 | Như hưởng nhẫn | Biết mọi âm thanh như tiếng vang |
-| 8 | Như ảnh nhẫn | Biết thân và thế gian như bóng trong gương, nước |
+| 7 | Như hưởng nhẫn | Biết mọi âm thanh như tiếng vang trong hang, "không lai không khứ" |
+| 8 | Như ảnh nhẫn | Như bóng trong nước, gương: "nơi trong dòng sông, bóng chẳng bị trôi" |
 | 9 | Như hóa nhẫn | Biết các pháp như vật biến hóa |
 | 10 | Như không nhẫn | Biết pháp giới như hư không, không tướng, không chỗ y |
 
@@ -92,7 +92,19 @@ Nói gọn: Ngũ nhẫn trả lời **"đã đi tới đâu"**; bảy nhẫn sau
 ### 4.4. Điểm chung theo Thầy
 Cả hai hệ đều đi từ **nhẫn có đối tượng** (chịu đựng) đến **nhẫn không đối tượng** (thấy vô sanh). Theo Thầy, nhẫn "là một con đường để đến tự do và cũng là một thước đo cho sự tự do nội tại vốn có của chúng ta."
 
-## 5. Việc cần làm tiếp
-- [ ] Tìm bản dịch Việt phẩm Thập Nhẫn (thứ 29) để thay bảng ở mục 3 bằng kinh văn.
+## 5. Đưa vào đời sống (theo cách Thầy giảng)
+Thang dưới đây do tôi sắp xếp; mỗi bậc dựa trên câu của Thầy hoặc kinh văn được ghi rõ.
+
+| Bậc | Đời sống hằng ngày | Dựa trên |
+|---|---|---|
+| Nhẫn đời thường | Trà nóng, trời mưa, tuổi già, việc không như ý. Mỗi lần phải nhẫn là dấu hiệu chỗ mình còn bị trói, cũng là "lời kêu gọi của tự do" | Thầy, [*Nhẫn*](../../tac-gia/nguyen-the-dang/bai-viet/nhan.md) |
+| Phục nhẫn | Bị nói nặng mà nhịn được, không cãi. Vẫn còn "tôi nhịn anh" | Thầy: "càng ở thấp... càng phải nhẫn nhiều" |
+| Tín nhẫn / Âm thanh nhẫn | Nghe sự thật khó nghe (vô thường, bệnh, lời phê bình đúng) mà "chẳng kinh chẳng hãi chẳng sợ" | Kinh văn phẩm 29; Thầy: "nhẫn nhục chịu đựng những sự thật làm tróc gốc hiện hữu của ta" |
+| Thuận nhẫn | Khi bị mắng, quán "ai mắng, ai chịu?"; nhìn ra mình sống nhờ sự nhẫn nhục của bao người, từ đó biết ơn, từ bi | Kinh do Thầy dẫn trong [*Trí Tuệ Và Đại Bi*](../../tac-gia/nguyen-the-dang/bai-viet/tri-tue-va-dai-bi.md); Thầy, *Nhẫn* |
+| Vô sanh pháp nhẫn | Nếm thoáng qua: cơn giận nhìn thẳng thì tự tan, không còn ai để nhẫn. Chứng trọn là địa thứ tám | Thầy: "Không có một cái tôi để phải nhẫn với cái gì" |
+| Bảy nhẫn như huyễn | Chuyện buồn cũ nay như giấc mộng; chuyện hôm nay cũng vậy. Khen chê như tiếng vang. Cảm xúc lên xuống như bóng trăng trong sông, "bóng chẳng bị trôi". Không phải để chán đời | Thầy, [*Học Tập Ba Pháp Tu Của Kinh Viên Giác*](../../tac-gia/nguyen-the-dang/bai-viet/hoc-tap-ba-phap-tu-cua-kinh-vien-giac.md); kinh văn phẩm 29 |
+
+## 6. Việc cần làm tiếp
+- [x] Đối chiếu kinh văn phẩm Thập Nhẫn (quyển 3, tr. 27-41).
 - [ ] Đối chiếu kinh Nhân Vương để kiểm chứng bảng ở mục 2.
 - [ ] Đọc kỹ các bài [*Như Huyễn*](../../tac-gia/nguyen-the-dang/bai-viet/nhu-huyen.md) và [*Như Huyễn Tam-muội*](../../tac-gia/nguyen-the-dang/bai-viet/nhu-huyen-tam-muoi.md) cho bảy nhẫn sau.
