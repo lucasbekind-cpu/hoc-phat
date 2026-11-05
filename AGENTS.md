@@ -14,9 +14,10 @@ Khi trả lời một câu hỏi hay soạn ghi chú về giáo lý, **luôn tra
      grep -il "chu_de:.*Pháp Hoa" tac-gia/nguyen-the-dang/bai-viet/*.md
      ```
    - Đọc kỹ các bài liên quan nhất và **trình bày quan điểm của Thầy trước**, rồi mới bổ sung từ nguồn khác.
-2. **Tài liệu đã có trong kho:** `02-giao-ly/`, `03-kinh-dien/`, `04-truyen-thong/`, các luồng trong `07-de-tai/`, [`THUAT-NGU.md`](THUAT-NGU.md).
-3. **Kinh điển gốc** (SuttaCentral, CBETA, Thư Viện Hoa Sen…) và các nguồn trong [`TAI-LIEU-THAM-KHAO.md`](TAI-LIEU-THAM-KHAO.md).
-4. **Kiến thức chung của mô hình / học thuật hiện đại** — chỉ dùng để bổ sung, và phải ghi rõ đó là nguồn ngoài tuyển tập.
+2. **Ưu tiên số 2: Sách Thầy viết, giảng giải** trong [`sach/`](sach/), hiện có [*Đi Vào Kinh Hoa Nghiêm*](sach/di-vao-kinh-hoa-nghiem-nguyen-the-dang.pdf). PDF có thể trích chữ bằng `pdftotext -layout`. Khi dẫn phải ghi **số trang in trên sách** và tên bài/chương.
+3. **Tài liệu đã có trong kho:** `02-giao-ly/`, `03-kinh-dien/`, `04-truyen-thong/`, các luồng trong `07-de-tai/`, [`THUAT-NGU.md`](THUAT-NGU.md).
+4. **Kinh điển gốc** (SuttaCentral, CBETA, Thư Viện Hoa Sen…) và các nguồn trong [`TAI-LIEU-THAM-KHAO.md`](TAI-LIEU-THAM-KHAO.md).
+5. **Kiến thức chung của mô hình / học thuật hiện đại** — chỉ dùng để bổ sung, và phải ghi rõ đó là nguồn ngoài tuyển tập.
 
 ## 2. Cách trích dẫn bài của Thầy Nguyễn Thế Đăng
 
@@ -37,6 +38,7 @@ Khi trả lời một câu hỏi hay soạn ghi chú về giáo lý, **luôn tra
 - Viết bằng **tiếng Việt**; thuật ngữ ghi dạng *Hán Việt (Pāli / Sanskrit)*.
 - Ký hiệu kinh Pāli theo chuẩn SuttaCentral (`MN`, `SN`, `AN`…); kinh Hán tạng ghi số `T` (Taishō).
 - Câu hỏi mới phát sinh ghi vào [`NHAT-KY-NGHIEN-CUU.md`](NHAT-KY-NGHIEN-CUU.md).
+- Trong một luồng đề tài, câu hỏi nảy ra lúc suy ngẫm thì ghi **nguyên văn, ngay khi phát sinh** vào tệp `cau-hoi-phat-sinh.md` của luồng (ví dụ [luồng Phật tánh](07-de-tai/phat-tanh/cau-hoi-phat-sinh.md)), rồi trả lời theo thứ tự nguồn ở mục 1.
 
 ## 5. Quy tắc Git
 

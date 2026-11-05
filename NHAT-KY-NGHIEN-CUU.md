@@ -20,6 +20,17 @@ Những câu hỏi cần tìm hiểu thêm. Khi đã có câu trả lời, chuy�
 
 ## Nhật ký
 
+### 2026-11-05 — Câu hỏi phát sinh: thiện, ác và Phật tánh
+- Mở tệp [câu hỏi phát sinh](07-de-tai/phat-tanh/cau-hoi-phat-sinh.md) cho luồng Phật tánh. Thứ tự nguồn: bài của Thầy, rồi sách của Thầy (*Đi Vào Kinh Hoa Nghiêm*), rồi các nguồn khác. Đã cập nhật [`AGENTS.md`](AGENTS.md) theo thứ tự này.
+- CH-01: “Phật tánh bao trùm thiện ác, vì sao chí thiện chạm Phật tánh? Chí ác có được không?”
+- Phát hiện chính:
+  - Thiện ác đều khởi trong tự tánh nhưng tánh không nhiễm thiện ác (*Pháp Bảo Đàn*, Thầy dẫn).
+  - Thiện **thuận** tánh, ác **trái** tánh (*Đạo Đức Và Hạnh Phúc*). Kinh gọi “đại từ đại bi là Phật tánh” (*Niết-bàn*).
+  - Phẩm Thập Hồi Hướng ví thiện căn hồi hướng với chân như từng điểm (*Đi Vào Kinh Hoa Nghiêm*, tr. 286–287).
+  - Chí ác (nhất xiển đề) vẫn có Phật tánh nhưng “chìm hẳn”, phải lìa ác mới thành Phật.
+- Câu hỏi mới: phương tiện và “tánh ác” của Thiên Thai; “không nghĩ thiện ác” khác gì vô ký?
+- **Việc tiếp theo:** đối chiếu nguyên văn *Quán Âm Huyền Nghĩa* (T1726) trên CBETA; đọc bài *Phương Tiện* của Thầy.
+
 ### 2026-10-26 — Tìm hiểu Duy Thức tông (Yogācāra)
 - Đã soạn: [Duy Thức tông](04-truyen-thong/duy-thuc.md) — lịch sử (Vô Trước, Thế Thân, Huyền Trang), tám thức, chủng tử – huân tập, ba tự tánh, chuyển thức thành trí, các tranh luận.
 - Bổ sung thuật ngữ Duy Thức vào [bảng thuật ngữ](THUAT-NGU.md) và sách vào [tài liệu tham khảo](TAI-LIEU-THAM-KHAO.md).
