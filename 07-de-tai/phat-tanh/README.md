@@ -77,11 +77,13 @@ Theo [`AGENTS.md`](../../AGENTS.md), đọc trước các bài trong [tuyển t�
 | 2026-10-13 | Mở luồng; soạn ghi chú chính về các lý do và phản biện |
 | 2026-10-13 | Thêm Bước 0 (bài của Thầy Nguyễn Thế Đăng) và mục 0 trong ghi chú chính |
 | 2026-11-05 | Mở tệp [câu hỏi phát sinh](cau-hoi-phat-sinh.md); CH-01: Phật tánh bao trùm thiện ác, vì sao chí thiện chạm Phật tánh, chí ác có được không? |
+| 2026-11-05 | CH-02: “tất cả là vàng” và nhân quả; bố thí tam luân không tịch có quả không? |
 
 ## Câu hỏi mở của luồng
 > Câu hỏi nảy ra trong lúc suy ngẫm thì ghi trước vào [`cau-hoi-phat-sinh.md`](cau-hoi-phat-sinh.md). Khi tra cứu, **luôn đọc bài của Thầy Nguyễn Thế Đăng trước, sau đó đến sách Thầy viết và giảng giải** (thư mục [`sach/`](../../sach/)), rồi mới đến các nguồn khác.
 
 - [x] Nếu Phật tánh bao trùm thiện ác, vì sao chí thiện chạm được Phật tánh? Chí ác có được không? → [CH-01](cau-hoi-phat-sinh.md#ch-01--phật-tánh-bao-trùm-thiện-ác-sao-chí-thiện-lại-chạm-phật-tánh-chí-ác-có-được-không) (đã trả lời bước đầu)
+- [x] Nếu tất cả là vàng thì nhân quả thiện ác ra sao? Bồ-tát bố thí mà “không có chúng sanh được bố thí” thì có nhận quả thiện không? → [CH-02](cau-hoi-phat-sinh.md#ch-02--nếu-tất-cả-là-vàng-thì-nhân-quả-thiện-ác-ra-sao-bố-thí-mà-không-có-người-nhận-thì-có-phước-không) (đã trả lời bước đầu)
 - [ ] Hai bản dịch *Niết-bàn* (Pháp Hiển 6 quyển, T376 và Đàm-vô-sấm 40 quyển, T374) khác nhau cụ thể ở những đoạn nào về nhất-xiển-đề?
 - [ ] Nếu Phật tánh là “Không” (theo Trung Quán), thì nó khác gì với Tánh Không của mọi pháp — vì sao cần một thuật ngữ riêng?
 - [ ] Trạm Nhiên nói “vô tình hữu tánh” (cây cỏ cũng có Phật tánh) — lập luận này dựa trên tiền đề nào?

@@ -1,6 +1,6 @@
 # Câu Hỏi Phát Sinh Trong Suy Tư — Luồng Phật Tánh
 
-**Ngày tạo:** 2026-11-05 · **Cập nhật:** 2026-11-05
+**Ngày tạo:** 2026-11-05 · **Cập nhật:** 2026-11-05 (CH-02)
 
 Tệp này ghi lại **những câu hỏi nảy ra khi suy ngẫm** trong lúc đọc và tu học theo [luồng Phật tánh](README.md). Mỗi câu hỏi được ghi **ngay khi phát sinh**, đúng lời mình hỏi, rồi mới tra cứu và trả lời dần.
 
@@ -20,6 +20,7 @@ Tệp này ghi lại **những câu hỏi nảy ra khi suy ngẫm** trong lúc �
 | # | Ngày | Câu hỏi | Trạng thái |
 |---|---|---|---|
 | [CH-01](#ch-01--phật-tánh-bao-trùm-thiện-ác-sao-chí-thiện-lại-chạm-phật-tánh-chí-ác-có-được-không) | 2026-11-05 | Phật tánh bao trùm thiện ác, sao chí thiện lại chạm Phật tánh? Chí ác có được không? | Đã trả lời bước đầu |
+| [CH-02](#ch-02--nếu-tất-cả-là-vàng-thì-nhân-quả-thiện-ác-ra-sao-bố-thí-mà-không-có-người-nhận-thì-có-phước-không) | 2026-11-05 | Nếu tất cả là vàng thì nhân quả thiện ác ra sao? Bố thí “không có chúng sanh được bố thí” thì Bồ-tát có nhận quả thiện không? | Đã trả lời bước đầu |
 
 ---
 
@@ -172,3 +173,135 @@ Tệp: [`sach/di-vao-kinh-hoa-nghiem-nguyen-the-dang.pdf`](../../sach/di-vao-kin
 **Sách của Thầy:** *Đi Vào Kinh Hoa Nghiêm*, tr. 133, 176, 255–256, 286–289, 295.
 
 **Từ khóa đã dùng:** `chí thiện`, `toàn thiện`, `tánh ác`, `thiện ác`, `không nghĩ thiện`, `nhất xiển đề`, `Đề-bà-đạt-đa`, `thuận tánh`, `trái với tánh`, `tương ưng với Phật tánh`, `phiền não tức bồ đề`.
+
+---
+
+## CH-02 — Nếu tất cả là vàng thì nhân quả thiện ác ra sao? Bố thí mà không có người nhận thì có phước không?
+
+**Ngày phát sinh:** 2026-11-05 · **Nối tiếp:** [CH-01](#ch-01--phật-tánh-bao-trùm-thiện-ác-sao-chí-thiện-lại-chạm-phật-tánh-chí-ác-có-được-không), đoạn “toàn cả pháp giới đều bằng vàng” (*Đi Vào Kinh Hoa Nghiêm*, tr. 255–256)
+
+> **Nguyên văn câu hỏi:** Nếu tất cả là vàng thì nhân quả thiện ác ra sao? Người làm ác nhận quả ác, người làm thiện nhận quả thiện. Nếu người làm thiện, ác trên nền không sanh không diệt thì nhân quả vẫn tính đúng không? Như trong các kinh cũng có dặn Bồ-tát bố thí cho tất cả chúng sanh mà chẳng có chúng sanh nào được bố thí, thì lúc này Bồ-tát có nhận về nhân quả thiện không? Nếu có thì dính, mà không thì lại nói nhân quả thiện ác là không có???
+
+### 1. Tách câu hỏi
+
+- **(a)** Nếu bản tánh là vàng, không sanh không diệt, thì nhân quả (thứ có sanh có diệt) còn chạy đúng không?
+- **(b)** Bồ-tát bố thí theo tinh thần *tam luân không tịch* (không người cho, không người nhận, không vật cho). Vậy Bồ-tát có nhận quả thiện không?
+- **(c)** Thế lưỡng nan: *có quả* thì Bồ-tát vẫn còn dính; *không có quả* thì hóa ra nhân quả không có thật.
+
+Gợi ý đi trước: thế lưỡng nan ở (c) chỉ đứng được khi **“không” được hiểu là “không có gì”**. Kinh và Thầy hiểu “không” là **vô tự tánh**. Theo nghĩa đó, *vì* không có tự tánh nên nhân quả mới vận hành được. Còn chuyện “dính” là do **chấp quả**, không phải do **có quả**.
+
+### 2. Theo bài viết của Thầy Nguyễn Thế Đăng (nguồn ưu tiên 1)
+
+#### 2.1. Thầy dùng chính ví dụ vàng: vàng không ngăn nhân quả
+
+Bài [*Như Vậy*](../../tac-gia/nguyen-the-dang/bai-viet/nhu-vay.md) (Tạp chí Văn Hóa Phật Giáo năm 2017) giảng mười “như thị” của *Pháp Hoa* (tướng, tánh, thể, lực, tác, nhân, duyên, quả, báo, đầu cuối). Đây là đoạn trả lời thẳng vế (a):
+
+> “*Cái Như này không bác bỏ nhân quả, không ngăn cấm sự tạo tác, chuyển động, sự chín thành của quả báo… **Cá thể nào tạo nhân gì thì được quả tương ứng, không sai chạy**; gây nhân tốt thì có quả tốt, gây nhân xấu thì có quả xấu. Có điều người có cái thấy biết chân chánh thì thấy tất cả đều ở trong cái Như Vậy và là cái Như Vậy. **Giống như người thấy tánh vàng của tất cả mọi cái bằng vàng, tánh vàng đó không ngăn cấm có người làm ra tượng vàng cụt đầu, gãy tay**, tạo ra một cuộc đời hư hỏng, khổ đau; nhưng với người thấy và sống tánh vàng thì thấy tất cả đều là vàng.*” (lời giảng của Thầy)
+
+→ “Tất cả là vàng” nói về **chất liệu**. Nhân quả nói về **hình tượng được đúc ra**. Vàng không quyết định tượng đẹp hay tượng gãy tay, cách đúc mới quyết định. Hai điều này nằm ở hai bình diện nên không loại trừ nhau.
+
+#### 2.2. Không sanh không diệt không phải là nền đứng yên chặn nhân quả, mà là lý do nhân quả vận hành được
+
+- Bài [*Duyên Sanh Và Tánh Không*](../../tac-gia/nguyen-the-dang/bai-viet/duyen-sanh-va-tanh-khong.md). Lời giảng của Thầy: “*Tánh Không không bác bỏ duyên sanh, nghĩa là không bác bỏ nhân quả… **Không bác bỏ nhân quả nghiệp báo cho nên không rơi vào đoạn kiến**, chủ nghĩa hư vô. Mặt khác, **không xem nhân quả nghiệp báo là có tự tánh và tất định**, không thể chuyển hóa, tịnh hóa, cho nên không rơi vào thường kiến.*” Và: “*vì có tánh Không, có vô tự tánh, nên có duyên sanh, có nhân quả, có nghiệp báo*”.
+  Kinh luận do Thầy dẫn: *Trung Luận*, phẩm Tứ Đế: “*Do vì có nghĩa Không / Tất cả pháp được thành*”. *Duy-ma-cật*, phẩm Quán Chúng Sanh: “*Từ gốc vô trụ mà tất cả các pháp được thành lập*”.
+- Bài [*Bình Đẳng của Chân Lý Tương Đối và Chân Lý Tuyệt Đối*](../../tac-gia/nguyen-the-dang/bai-viet/binh-dang-cua-chan-ly-tuong-doi-va-chan-ly-tuyet-doi.md). Lời giảng của Thầy:
+  - “*Bình đẳng ở thế giới tương đối là **luật nhân quả**… Bình đẳng ở thế giới tuyệt đối là **Phật tánh**… vì không sanh không diệt*.”
+  - “*Nhân nào cũng sanh trong tánh Không, nhân ấy thành quả trong tánh Không, quả ấy hiện hữu một thời gian rồi lại tiêu tan trong tánh Không. **Tánh Không là nền tảng cho mọi sanh ra và diệt mất của nhân quả. Nền tảng tánh Không ấy cũng là sự giải thoát của nhân quả.***”
+  - “*Nhân quả cũng chính là tánh Không vì nhân quả là vô tự tánh.*”
+
+→ Hỏi “nhân quả có còn tính đúng trên nền không sanh không diệt không?” cũng giống hỏi “sóng có còn đúng quy luật khi biển là một không?”. Sóng nào cũng do gió và nước tạo ra, theo đúng quy luật. Mà sóng nào cũng là nước. Nhân quả tính **đúng tuyệt đối ở bình diện của nó** (tục đế). Nền tánh Không không xóa nhân quả. Nó chỉ cho thấy nhân quả **không có tự tánh**, nên **chuyển hóa được** và **giải thoát được ngay trong nhân quả**.
+
+#### 2.3. Bố thí mà không có người được bố thí: kinh nói phước càng lớn, không phải mất đi
+
+- Bài [*Người Huyễn Làm Việc Huyễn*](../../tac-gia/nguyen-the-dang/bai-viet/nguoi-huyen-lam-viec-huyen.md). Kinh văn do Thầy dẫn (*Đại Bát-nhã*, phẩm Trang Nghiêm):
+  > “*Ví như nhà huyễn thuật giỏi, ở giữa ngã tư đường hóa làm ra đại chúng, rồi cung cấp đồ ăn uống… **Đại Bồ-tát hóa làm Chuyển luân thánh vương cung cấp nhu cầu đầy đủ cho tất cả chúng sanh, tuy có bố thí mà thật không có chỗ bố thí.** Vì sao thế? Vì tướng các pháp như huyễn vậy.*”
+
+  Phẩm Tam Huệ, cũng do Thầy dẫn, nêu đúng thắc mắc của bạn. Tu-bồ-đề hỏi: nếu tất cả như huyễn thì “*làm sao khiến người bố thí, cúng dường thanh tịnh, cho đến **được phước đức không cùng tận**?*” Phật đáp: “*Phật dùng **thật tướng của tất cả các pháp** mà làm phước điền cho trời, người và tất cả chúng sanh.*”
+  Lời giảng của Thầy: “*Như mộng như huyễn… nghĩa là **có xuất hiện**, nhưng không buộc không thoát vì vẫn là tánh Không… Khi giúp đỡ, giải thoát cho chúng sanh như mộng như huyễn, **Bồ-tát cũng giải thoát khỏi cả công việc làm lợi lạc cho chúng sanh này**.*”
+- *Kinh Kim Cương* do Thầy dẫn trong [*Sáu Ba La Mật*](../../tac-gia/nguyen-the-dang/bai-viet/sau-ba-la-mat.md), [*Ánh Sáng Của Tất Cả Các Pháp*](../../tac-gia/nguyen-the-dang/bai-viet/anh-sang-cua-tat-ca-cac-phap.md) (Văn Hóa Phật Giáo số 282) và [*Tin Nhân Quả, Tạo Phước Đức, Sống Chân Thường*](../../tac-gia/nguyen-the-dang/bai-viet/tin-nhan-qua-tao-phuoc-duc-song-chan-thuong.md) (Văn Hóa Phật Giáo số 190):
+  > “*Nếu Bồ-tát **không trụ tướng mà bố thí** thì **phước đức ấy không thể tính lường**.*”
+
+  Lời giảng của Thầy trong bài thứ ba:
+  - “*Khi tâm không trụ vào các tướng, tâm ấy bao la, **do đó phước đức cũng trở nên bao la**.*”
+  - “*Nếu làm lợi ích cho đời với một tâm thức có trí huệ, nghĩa là không tham, không sân, không si, không bám chấp, thì **càng làm lợi ích chúng ta càng giải thoát, càng tự do**. Lúc ấy phước đức được gọi là **công đức**.*”
+  - Còn phước có tướng thì “*phước đức nào được hưởng thì cũng có ngày hết*”.
+
+→ **Câu trả lời của kinh cho vế (b) là: có quả, và quả lớn hơn.** Bố thí còn chấp tướng sinh ra **phước đức hữu hạn** (có lượng, có ngày hết). Bố thí không trụ tướng sinh ra **công đức vô lượng**. “Không có chúng sanh được bố thí” không xóa nhân quả. Nó **xóa giới hạn** của nhân quả: không còn cái “tôi” để thu hẹp việc cho, nên quả cũng không bị đóng khung trong một cái “tôi”.
+
+#### 2.4. Thế lưỡng nan “có thì dính”: Thầy đáp bằng Trung đạo của hai sự tích tập
+
+- [*Duyên Sanh Và Tánh Không*](../../tac-gia/nguyen-the-dang/bai-viet/duyen-sanh-va-tanh-khong.md), lời giảng của Thầy:
+  - “*Tích tập công đức là việc làm **trong vòng duyên sanh, nhân quả**. Tích tập trí huệ là hoàn thiện trí huệ soi thấu tánh Không… Trung đạo của người hành Bồ-tát đạo là tạo lập, xây dựng công đức, là công việc ở trong nhân quả duyên sanh của sanh tử, **nhưng không ở trong sanh tử vì đồng thời vẫn thể nhập tánh Không**.*”
+  - Quả của công đức là gì? “*Với sự tích tập công đức… Bồ-tát dần dần thành tựu **Sắc thân, gồm Báo thân và Hóa thân**. Với sự tích tập trí huệ tánh Không, Bồ-tát dần dần thành tựu Pháp thân.*”
+- [*Bình Đẳng của Chân Lý Tương Đối và Chân Lý Tuyệt Đối*](../../tac-gia/nguyen-the-dang/bai-viet/binh-dang-cua-chan-ly-tuong-doi-va-chan-ly-tuyet-doi.md): “*Vị ấy sống trong thế gian này, nghĩa là **sống trong nhân quả**. Nhưng vị ấy thấy nhân là vô biên, quả cũng vô biên, nên vị ấy **giải thoát ngay trong nhân quả***.”
+- [*Sống Với Sanh Tử*](../../tac-gia/nguyen-the-dang/bai-viet/song-voi-sanh-tu.md) (Văn Hóa Phật Giáo số 324): Bồ-tát phải thấy “*nghiệp nhân nghiệp quả của chúng sanh là vô tự tánh, như huyễn như mộng*”, “*biết rõ nghiệp như huyễn*”. Thầy nói “như huyễn”, không nói “không có”.
+- [*Lời Chúc Đầu Năm: Lợi Mình Lợi Người*](../../tac-gia/nguyen-the-dang/bai-viet/loi-chuc-dau-nam-loi-minh-loi-nguoi.md): “*phước đức, từ bi và trí huệ… của chúng ta là của rất nhiều người, thậm chí của mọi người. Khi ấy **phước của chúng ta là phước của tất cả mọi người***.”
+
+→ Theo Thầy, Bồ-tát **vẫn nhận quả**. Quả ấy là Sắc thân, là sức cứu độ, là “phước điền” cho chúng sanh. Nhưng Bồ-tát nhận quả **mà không có người nhận để bám**: quả chảy qua Bồ-tát đến chúng sanh. Thầy không bàn chuyện “dính” ở chỗ *có quả*. Thầy bàn ở chỗ *có trí tánh Không hay không*.
+
+### 3. Theo sách của Thầy: *Đi Vào Kinh Hoa Nghiêm* (nguồn ưu tiên 2)
+
+- **Kinh Hoa Nghiêm đặt đúng câu hỏi này.** Bài *Ngũ Trí Như Lai*, tr. 145–146: “*Nếu pháp giới là toàn thân Phật Tỳ Lô Giá Na, tại sao ‘có những sự khác biệt như khổ vui, tốt xấu, thọ ít hưởng nhiều, **tất cả nghiệp và báo**?’ Đây là câu hỏi Đức Văn Thù hỏi thay cho chúng sanh chúng ta trong chương Bồ-tát Vấn Minh, thứ 10.*” Kinh văn do Thầy dẫn, Bồ-tát Giác Thủ đáp:
+  > *Cứ theo nghiệp đã tạo / **Thọ quả báo như vậy** / **Đều không có tác giả** / Đây là lời chư Phật.*
+  > *Như mặt gương sáng sạch / Tùy theo cảnh đối tượng / Hiện bóng sai khác nhau / **Tánh nghiệp cũng như vậy**.*
+  > *Như nhà ảo thuật giỏi / Ở tại ngã tư đường / Hiện ra những sắc tướng / Tánh nghiệp cũng như vậy.*
+  > *Như máy móc người gỗ / Hay vang ra các tiếng / **Nó không ngã, ngã sở** / Tánh nghiệp cũng như vậy…*
+
+  → Hai vế cùng đứng trong **một bài kệ**: “**thọ quả báo**” và “**không có tác giả**”. Đây là chìa khóa của cả câu hỏi. Nhân quả là thật ở chỗ **có sự vận hành**. Nhân quả không thật ở chỗ **không có một cái ngã đứng sau làm chủ hay nhận lãnh**. Gương không nhiễm bóng mà bóng vẫn hiện đúng theo hình.
+- **Phước điền một vị mà quả báo khác nhau**, bài *Hoa Nghiêm Tánh Khởi*, tr. 137–138. Kinh văn do Thầy dẫn, Bồ-tát Mục Thủ: “*Lại như nước một vị / Nhân đồ chứa có khác / Phật phước điền vẫn một / **Do tâm người thành khác**. / Như mặt gương sáng sạch / Theo hình mà hiện bóng / Phật phước điền cũng vậy / **Tùy tâm được báo khác**.*” Lời giảng của Thầy (tr. 147): “*tất cả là một Phật bổn nguyên Tỳ Lô Giá Na, không sanh không diệt… mà **tùy theo tâm thức nhiễm ô nghiệp báo thấy có sai khác**.*”
+  → Vàng một vị, nước một vị, nhưng **dụng cụ đựng** (tâm và nghiệp) khác nhau nên quả khác nhau.
+- **Làm mà không cầu quả**, bài *Tin*, tr. 117. Kinh văn do Thầy dẫn (phẩm Phạm Hạnh): “*thực hành nghiệp vô thượng **không cầu quả báo**, rõ biết cảnh giới như huyễn mộng, như bóng như vang, như biến hóa… ở trong các pháp **chẳng sanh kiến giải nhị nguyên***”. Kinh nói “không **cầu** quả”, không nói “không **có** quả”.
+
+### 4. Tổng hợp trả lời
+
+*(Phần này là tổng hợp của người ghi, dựa trên các đoạn đã dẫn ở mục 2–3.)*
+
+1. **Nhân quả vẫn tính đúng, không sai chạy.** Theo Thầy, “tất cả là vàng” là cái thấy về **chất liệu**, không phải lời tuyên bố rằng **hình tượng** không còn quy luật. Ai đúc tượng gãy tay thì có tượng gãy tay. Ai gieo nhân ác thì gặt quả khổ. Nếu nói “vì tất cả là vàng nên làm ác cũng không sao” là rơi vào **đoạn kiến**, điều Thầy nói rõ tánh Không *không* chủ trương.
+2. **Không sanh không diệt là lý do nhân quả vận hành được, và là lý do có giải thoát.** Nếu nghiệp có tự tánh cố định thì không ai chuyển được nghiệp, đó là thường kiến. Vì nghiệp vô tự tánh (như bóng trong gương) nên nghiệp vừa *trổ quả đúng luật*, vừa *chuyển hóa được*, vừa *không trói được người thấy rõ nó*.
+3. **Bồ-tát bố thí “không thấy chúng sanh được bố thí” vẫn có quả, và quả lớn hơn.** Kinh Kim Cương nói “phước đức không thể tính lường”. Kinh Bát-nhã nói “phước đức không cùng tận”. Quả ấy là công đức thành Sắc thân và sức cứu độ, và theo Thầy, “phước của chúng ta là phước của tất cả mọi người”.
+4. **Thế lưỡng nan “có thì dính, không thì phủ nhận nhân quả” bị phá vì có lựa chọn thứ ba.**
+
+   | Thái độ | Nhân quả | Kết quả |
+   |---|---|---|
+   | Làm thiện và **chấp** quả (“tôi được phước”) | Có | **Dính**, phước hữu lậu, có ngày hết |
+   | Cho rằng làm gì cũng **không có** quả | Bị phủ nhận | **Đoạn kiến**, sai |
+   | Làm thiện, **có** quả mà **không chấp** quả, thấy quả như bóng trong gương | Có, vô lượng | **Không dính**, “giải thoát ngay trong nhân quả” |
+
+   “Dính” không nằm ở **quả**. Nó nằm ở **cái ngã ôm lấy quả**. Gương không dính bóng không phải vì bóng không hiện, mà vì gương không giữ bóng.
+5. **Câu hỏi đặt lại cho đúng:** đừng hỏi “Bồ-tát có nhận quả không?”, mà hỏi “**ai** nhận?”. Kinh đáp: “*thọ quả báo như vậy, đều không có tác giả*”. Có sự thọ quả mà không có một chủ thể độc lập đứng ra thọ, cũng như có việc cho mà không có người cho độc lập.
+
+### 5. Đối chiếu ngoài tuyển tập (bổ sung, không thuộc các bài của Thầy)
+
+*(Qua tra từ khóa, chưa thấy Thầy dẫn trực tiếp các đoạn dưới đây trong tuyển tập.)*
+
+- ***Kinh Kim Cương*** (La-thập dịch, T235), phần cuối. Kinh trả lời đúng thế lưỡng nan của câu hỏi:
+  - **Chống “không có quả”** (đoạn 27): “*Người phát tâm Vô thượng Bồ-đề, đối với các pháp **chẳng nói tướng đoạn diệt***” (於法不說斷滅相).
+  - **Chống “dính”** (đoạn 28): “*Vì các Bồ-tát **chẳng thọ phước đức**… Bồ-tát làm phước đức **chẳng nên tham đắm**, cho nên nói chẳng thọ phước đức*” (菩薩所作福德，不應貪著，是故說不受福德).
+
+  → “Chẳng thọ” ở đây được kinh tự định nghĩa là **không tham đắm**, chứ không phải *không có* phước. Câu này trả lời thẳng câu hỏi “có thì dính”.
+- ***Vô Môn Quan*, tắc 2, “Bách Trượng dã hồ”.** Một vị thầy xưa được hỏi: người tu hành lớn còn **rơi vào** nhân quả không? Ông đáp “*bất lạc nhân quả*” (không rơi vào nhân quả) nên phải làm chồn hoang năm trăm kiếp. Bách Trượng sửa lại: “*bất muội nhân quả*” (**không mờ mịt** về nhân quả), và vị kia liền được giải thoát. Đây là công án đúng cho câu hỏi này: bậc giác ngộ không *thoát ra ngoài* nhân quả, mà *sáng tỏ* trong nhân quả.
+- ***Chứng Đạo Ca* (Vĩnh Gia Huyền Giác):** “*Liễu tức nghiệp chướng bổn lai không, vị liễu ưng tu hoàn túc trái*” (Ngộ rồi thì nghiệp chướng vốn không, chưa ngộ thì phải trả nợ cũ). Cái “không” của nghiệp là cái **thấy** của người đã ngộ, không phải giấy miễn trừ cho người chưa ngộ.
+- **Truyền thống Pāli** (*Chú giải Pháp Cú*, truyện Đại Mục-kiền-liên). Ngay cả bậc A-la-hán thần thông bậc nhất vẫn chịu quả của nghiệp cũ, bị bọn cướp đánh chết. Nhưng ngài thọ quả mà **không khổ tâm**, không tạo nghiệp mới. Ví dụ này cho thấy nhân quả vẫn chạy, còn sự trói buộc thì đã hết.
+
+### 6. Câu hỏi con phát sinh tiếp
+
+- [ ] “Chẳng thọ phước đức” của Kim Cương và “Bồ-tát tích tập công đức thành Sắc thân” của Thầy: hai cách nói này khớp nhau ra sao? Công đức “thuộc về” ai?
+- [ ] Nếu “*một niệm thiện thì hằng sa ác chấm dứt*” (Lục Tổ, CH-01), thì nghiệp ác cũ có bị **xóa**, hay chỉ **chuyển** (trổ quả nhẹ hơn, như muối bỏ vào sông, AN 3.100)?
+- [ ] Hồi hướng công đức cho người khác có trái với “*ai làm nấy chịu*” không? Tra trước bài của Thầy về hồi hướng và phẩm Thập Hồi Hướng (*Đi Vào Kinh Hoa Nghiêm*, tr. 286–289).
+- [ ] Sám hối có “xóa” được nghiệp không? Câu kệ “*Tội tùng tâm khởi tương tâm sám*” nói gì về tánh của nghiệp?
+
+### 7. Nguồn đã tra cho CH-02
+
+**Bài của Thầy Nguyễn Thế Đăng** (đọc kỹ):
+- [*Như Vậy*](../../tac-gia/nguyen-the-dang/bai-viet/nhu-vay.md), Tạp chí Văn Hóa Phật Giáo năm 2017: **bài chính**, có ví dụ tượng vàng.
+- [*Duyên Sanh Và Tánh Không*](../../tac-gia/nguyen-the-dang/bai-viet/duyen-sanh-va-tanh-khong.md)
+- [*Bình Đẳng của Chân Lý Tương Đối và Chân Lý Tuyệt Đối*](../../tac-gia/nguyen-the-dang/bai-viet/binh-dang-cua-chan-ly-tuong-doi-va-chan-ly-tuyet-doi.md)
+- [*Người Huyễn Làm Việc Huyễn*](../../tac-gia/nguyen-the-dang/bai-viet/nguoi-huyen-lam-viec-huyen.md): bố thí mà không có chỗ bố thí.
+- [*Tin Nhân Quả, Tạo Phước Đức, Sống Chân Thường*](../../tac-gia/nguyen-the-dang/bai-viet/tin-nhan-qua-tao-phuoc-duc-song-chan-thuong.md), Văn Hóa Phật Giáo số 190
+- [*Sống Với Sanh Tử*](../../tac-gia/nguyen-the-dang/bai-viet/song-voi-sanh-tu.md), Văn Hóa Phật Giáo số 324
+
+**Bài của Thầy** (đọc đoạn liên quan): [*Sáu Ba La Mật*](../../tac-gia/nguyen-the-dang/bai-viet/sau-ba-la-mat.md), [*Ánh Sáng Của Tất Cả Các Pháp*](../../tac-gia/nguyen-the-dang/bai-viet/anh-sang-cua-tat-ca-cac-phap.md) (Văn Hóa Phật Giáo số 282), [*Lời Chúc Đầu Năm: Lợi Mình Lợi Người*](../../tac-gia/nguyen-the-dang/bai-viet/loi-chuc-dau-nam-loi-minh-loi-nguoi.md), [*Thuận Tánh Khởi Tu*](../../tac-gia/nguyen-the-dang/bai-viet/thuan-tanh-khoi-tu.md) (tam luân không tịch).
+
+**Sách của Thầy:** *Đi Vào Kinh Hoa Nghiêm*, tr. 117, 137–138, 145–147, 255–256.
+
+**Từ khóa đã dùng:** `nhân quả`, `bác bỏ nhân quả`, `tam luân`, `không trụ tướng`, `phước đức`, `như huyễn`, `nghiệp tánh`, `tánh nghiệp`, `quả báo`, `bất muội`, `chẳng thọ phước`.

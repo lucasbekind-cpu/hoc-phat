@@ -20,6 +20,14 @@ Những câu hỏi cần tìm hiểu thêm. Khi đã có câu trả lời, chuy�
 
 ## Nhật ký
 
+### 2026-11-05 — CH-02: “tất cả là vàng” và nhân quả
+- Câu hỏi: nếu tất cả là vàng, không sanh không diệt, thì nhân quả còn đúng không? Bồ-tát bố thí mà không thấy người nhận thì có quả thiện không? Có thì dính, không thì phủ nhận nhân quả? → [CH-02](07-de-tai/phat-tanh/cau-hoi-phat-sinh.md#ch-02--nếu-tất-cả-là-vàng-thì-nhân-quả-thiện-ác-ra-sao-bố-thí-mà-không-có-người-nhận-thì-có-phước-không)
+- Phát hiện chính:
+  - Bài *Như Vậy*: “tánh vàng không ngăn cấm có người làm ra tượng vàng cụt đầu”, nhân quả “không sai chạy”.
+  - Bồ-tát Vấn Minh (*Đi Vào Kinh Hoa Nghiêm*, tr. 145): “thọ quả báo như vậy, đều không có tác giả”.
+  - Kim Cương: bố thí không trụ tướng thì phước “không thể tính lường”. Bồ-tát “chẳng thọ phước đức” nghĩa là **không tham đắm**, không phải không có phước.
+- **Việc tiếp theo:** tìm bài của Thầy về sám hối và hồi hướng.
+
 ### 2026-11-05 — Câu hỏi phát sinh: thiện, ác và Phật tánh
 - Mở tệp [câu hỏi phát sinh](07-de-tai/phat-tanh/cau-hoi-phat-sinh.md) cho luồng Phật tánh. Thứ tự nguồn: bài của Thầy, rồi sách của Thầy (*Đi Vào Kinh Hoa Nghiêm*), rồi các nguồn khác. Đã cập nhật [`AGENTS.md`](AGENTS.md) theo thứ tự này.
 - CH-01: “Phật tánh bao trùm thiện ác, vì sao chí thiện chạm Phật tánh? Chí ác có được không?”
